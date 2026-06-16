@@ -1,7 +1,3 @@
-<div align="right">
-  <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3lncG0za2ptdW00MDR4YjYxb2VwZGxvZDRyeXNrNGZqNGZiMWk5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
-</div>
-
 <div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&random=false&width=435&height=40&lines=Hi%2C+I'm+Lucas+Schulz!+%F0%9F%91%8B%F0%9F%92%BB%F0%9F%92%99)](https://git.io/typing-svg)
